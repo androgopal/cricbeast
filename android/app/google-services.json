@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547252846918",
+    "project_id": "cricbeast-76dbb",
+    "storage_bucket": "cricbeast-76dbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547252846918:android:4c148b80d6a9c9ef496547",
+        "android_client_info": {
+          "package_name": "com.cricbeast.io"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmnYQPlpp753G8R2QacUxbXi3--ox1Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
